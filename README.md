@@ -4,9 +4,9 @@
   Don't worry about closing the connection since it does automatically after each use with the default __destruct() function
 
 # Functions:
-  [1] connect()
-  [2] getData()
-  [3] execute()
+  1] connect(), 
+  2] getData(), 
+  3] execute(), 
   Yep that's all you need
 
 # Usage:
