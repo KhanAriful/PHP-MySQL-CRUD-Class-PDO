@@ -25,7 +25,7 @@
     define('DB_CHARSET', 'utf8mb4');
 
     /* Getting the connection through the default __construct() function */
-    $config = new SQL(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME,DB_CHARSET);
+    $SQL = new SQL(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME,DB_CHARSET);
 
   # Step 2: Start using
   
