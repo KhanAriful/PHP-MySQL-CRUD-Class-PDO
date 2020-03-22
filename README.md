@@ -12,6 +12,7 @@
 # Usage:
 
   # Step 1: Call the class and create connection
+  
     <?php
     /* calling class */
     require 'SQL.php';
@@ -27,6 +28,7 @@
     $config = new SQL(DB_HOST,DB_USER,DB_PASSWORD,DB_NAME,DB_CHARSET);
 
   # Step 2: Start using
+  
     <?php
     /* MySQL INSERT query */
     $SQL->execute('INSERT INTO fruits (id, name) VALUES (1, "Apple")');
@@ -45,6 +47,7 @@
 
 
 # Use the connect() function to execute your own code
+
     <?php
     /* Let's use the '$pdo' variable to execute a custom code */
     $pdo = $SQL->connect();
