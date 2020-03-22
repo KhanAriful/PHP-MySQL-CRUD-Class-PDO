@@ -25,6 +25,7 @@ class SQL {
 		return $this->pdo;
 	}
 	public function getData($sql){
+		$rows = array();
 	    try{
 	        $result = $this->pdo->query($sql);
 	        if($result->rowCount() > 0){
