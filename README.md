@@ -49,7 +49,7 @@
     /* MySQL DELETE query */
     $sql->execute('DELETE FROM fruits WHERE id=1');
 
-# Advanced Usage
+# Advanced Usage:
 
   # Use the connect() function to execute your own code
 
