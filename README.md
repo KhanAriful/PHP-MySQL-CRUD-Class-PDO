@@ -49,8 +49,9 @@
     /* MySQL DELETE query */
     $sql->execute('DELETE FROM fruits WHERE id=1');
 
+# Advanced Usage
 
-# Use the connect() function to execute your own code
+  # Use the connect() function to execute your own code
 
     <?php
     /* Let's use the '$pdo' variable to execute a custom code */
