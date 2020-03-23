@@ -1,12 +1,11 @@
 # PHP MySQL CRUD Class PDO
-  Create, Read, Update and Delete easily!
-  Connection included
+  Create, Read, Update and Delete easily!<br />
+  Connection included<br />
   Don't worry about closing the connection since it does automatically after each use with the default __destruct() function
   
 # Required files:
   1) config.php
-  2) SQL.php
-  
+  2) SQL.php<br />
   Yep that's all you need
 
 # Functions:
