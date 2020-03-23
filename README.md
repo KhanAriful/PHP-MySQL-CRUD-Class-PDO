@@ -4,13 +4,13 @@
   Don't worry about closing the connection since it does automatically after each use with the default __destruct() function
   
 # Required files:
-  1) config.php
+  1) config.php<br />
   2) SQL.php<br />
   Yep that's all you need
 
 # Functions:
-  1) connect()
-  2) getData()
+  1) connect()<br />
+  2) getData()<br />
   3) execute()
 
 # Usage:
