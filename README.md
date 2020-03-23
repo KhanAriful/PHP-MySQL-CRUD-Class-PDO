@@ -43,10 +43,10 @@
       echo 'Id: ' . $fruit['id'] . ' Name: ' . $fruit['name'] . '<br />';
     }
 
-    * MySQL UPDATE query */
+    /* MySQL UPDATE query */
     $sql->execute('UPDATE fruits SET name="Apple" WHERE id=1');
 
-    * MySQL DELETE query */
+    /* MySQL DELETE query */
     $sql->execute('DELETE FROM fruits WHERE id=1');
 
 
