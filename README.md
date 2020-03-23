@@ -5,7 +5,7 @@
   
 # Required files:
   1) config.php
-  2) SQL.php
+  2) SQL.php  
   Yep that's all you need
 
 # Functions:
