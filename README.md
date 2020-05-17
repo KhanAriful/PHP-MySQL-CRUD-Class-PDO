@@ -2,7 +2,9 @@
   Create, Read, Update and Delete easily!<br />
   Connection included<br />
   Don't worry about closing the connection since it does automatically after each use with the default __destruct() function
-  ![Image](https://github.com/KhanAriful/PHP-MySQL-CRUD-Class-PDO/blob/master/image.png)
+
+![Image](https://github.com/KhanAriful/PHP-MySQL-CRUD-Class-PDO/blob/master/image.png)
+
 # Required files:
   1) config.php<br />
   2) SQL.php<br />
